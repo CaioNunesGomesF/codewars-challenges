@@ -1,0 +1,17 @@
+{
+  "name": "fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "github.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2"
+  }
+}
